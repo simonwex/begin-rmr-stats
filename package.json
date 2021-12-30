@@ -1,0 +1,14 @@
+{
+  "name": "begin-app",
+  "version": "0.0.0",
+  "description": "Begin scheduled functions example app",
+  "scripts": {
+    "start": "sandbox"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^4.4.2"
+  },
+  "dependencies": {
+    "@begin/data": "^3.0.0"
+  }
+}
